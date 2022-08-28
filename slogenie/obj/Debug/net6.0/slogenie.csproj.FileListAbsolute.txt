@@ -1,0 +1,15 @@
+C:\Users\musat\OneDrive\Рабочий стол\С#\2 p\Hello_Console\slogenie\bin\Debug\net6.0\slogenie.exe
+C:\Users\musat\OneDrive\Рабочий стол\С#\2 p\Hello_Console\slogenie\bin\Debug\net6.0\slogenie.deps.json
+C:\Users\musat\OneDrive\Рабочий стол\С#\2 p\Hello_Console\slogenie\bin\Debug\net6.0\slogenie.runtimeconfig.json
+C:\Users\musat\OneDrive\Рабочий стол\С#\2 p\Hello_Console\slogenie\bin\Debug\net6.0\slogenie.dll
+C:\Users\musat\OneDrive\Рабочий стол\С#\2 p\Hello_Console\slogenie\bin\Debug\net6.0\slogenie.pdb
+C:\Users\musat\OneDrive\Рабочий стол\С#\2 p\Hello_Console\slogenie\obj\Debug\net6.0\slogenie.csproj.AssemblyReference.cache
+C:\Users\musat\OneDrive\Рабочий стол\С#\2 p\Hello_Console\slogenie\obj\Debug\net6.0\slogenie.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\musat\OneDrive\Рабочий стол\С#\2 p\Hello_Console\slogenie\obj\Debug\net6.0\slogenie.AssemblyInfoInputs.cache
+C:\Users\musat\OneDrive\Рабочий стол\С#\2 p\Hello_Console\slogenie\obj\Debug\net6.0\slogenie.AssemblyInfo.cs
+C:\Users\musat\OneDrive\Рабочий стол\С#\2 p\Hello_Console\slogenie\obj\Debug\net6.0\slogenie.csproj.CoreCompileInputs.cache
+C:\Users\musat\OneDrive\Рабочий стол\С#\2 p\Hello_Console\slogenie\obj\Debug\net6.0\slogenie.dll
+C:\Users\musat\OneDrive\Рабочий стол\С#\2 p\Hello_Console\slogenie\obj\Debug\net6.0\refint\slogenie.dll
+C:\Users\musat\OneDrive\Рабочий стол\С#\2 p\Hello_Console\slogenie\obj\Debug\net6.0\slogenie.pdb
+C:\Users\musat\OneDrive\Рабочий стол\С#\2 p\Hello_Console\slogenie\obj\Debug\net6.0\slogenie.genruntimeconfig.cache
+C:\Users\musat\OneDrive\Рабочий стол\С#\2 p\Hello_Console\slogenie\obj\Debug\net6.0\ref\slogenie.dll
